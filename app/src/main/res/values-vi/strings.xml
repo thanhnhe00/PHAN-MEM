@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="title_list">Danh sách sinh viên</string>
+    <string name="empty_list">Chưa có sinh viên nào. Nhấn + để thêm.</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="edit_student">Sửa sinh viên</string>
+    <string name="student_detail">Thông tin sinh viên</string>
+
+    <string name="label_name">Họ tên</string>
+    <string name="label_student_id">Mã số SV</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Link ảnh avatar hoặc ảnh đã chọn</string>
+    <string name="btn_pick_image">Chọn ảnh từ thiết bị</string>
+
+    <string name="btn_save">Lưu</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_close">Đóng</string>
+    <string name="btn_yes">Có</string>
+    <string name="btn_no">Không</string>
+    <string name="back">Quay lại</string>
+
+    <string name="confirm_title">Xác nhận</string>
+    <string name="confirm_edit">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="confirm_delete">Bạn có muốn xóa thông tin SV không?</string>
+
+    <string name="error_required">Không được để trống</string>
+    <string name="error_email">Email không hợp lệ</string>
+
+    <string name="toast_added">Đã thêm sinh viên</string>
+    <string name="toast_updated">Đã cập nhật sinh viên</string>
+    <string name="toast_deleted">Đã xóa sinh viên</string>
+</resources>

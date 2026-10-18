@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="title_list">Student List</string>
+    <string name="empty_list">No students yet. Tap + to add one.</string>
+    <string name="add_student">Add student</string>
+    <string name="edit_student">Edit student</string>
+    <string name="student_detail">Student details</string>
+
+    <string name="label_name">Full name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Avatar link (URL) or chosen image</string>
+    <string name="btn_pick_image">Choose image from device</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="back">Back</string>
+
+    <string name="confirm_title">Confirm</string>
+    <string name="confirm_edit">Do you want to update this student\'s information?</string>
+    <string name="confirm_delete">Do you want to delete this student\'s information?</string>
+
+    <string name="error_required">This field is required</string>
+    <string name="error_email">Invalid email</string>
+
+    <string name="toast_added">Student added</string>
+    <string name="toast_updated">Student updated</string>
+    <string name="toast_deleted">Student deleted</string>
+</resources>
