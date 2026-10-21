@@ -9,3 +9,4 @@ local.properties
 *.keystore
 *.mp4
 .DS_Store
+*.zip
